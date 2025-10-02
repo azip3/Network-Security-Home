@@ -6,3 +6,4 @@ This repository is where I am showcasing my cybsersecurity home lab projects. Th
 
 ### 1 Cybersecurity Tools
 -[Exploring Ubuntu Home Lab] (1%20Cybersecurity%20Tools/Exploring%20Ubuntu%20Home%Lab.md)
+-[assignment 2](assets/chapter2work.pdf)
